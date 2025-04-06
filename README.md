@@ -44,7 +44,7 @@
 ---
 
 📫 Let's Connect!
-- 💼 [LinkedIn]  www.linkedin.com/in/sibel-maral-49b6b4151 
+- 💼 www.linkedin.com/in/sibel-maral-49b6b4151 
 - 📧 sibel.maral55@gmail.com 
 
 ---
