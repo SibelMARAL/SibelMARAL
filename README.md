@@ -2,16 +2,12 @@
 
 🎓 I'm a Ph.D. student in **Psychological Counseling** at **Yıldız Technical University**. I work full-time as a **psychological counselor** and I'm passionate about integrating **technology** and **mental health** to build meaningful and human-centered digital solutions.
 
----
-
 💻 Currently Learning
 - HTML5 & CSS3  
 - JavaScript (ES6+)  
 - Responsive Web Design  
 - Git & GitHub  
 - VS Code & Chrome DevTools  
-
----
 
 🚀 Goals
 - Build and publish my **first portfolio website**  
@@ -23,8 +19,6 @@
 - Contribute to **open source** projects  
 - Develop creative **ed-tech projects** for youth  
 
----
-
 🧠 Background
 - 🎓 Ph.D. Student – *Psychological Counseling and Guidance*, **Yıldız Technical University**  
 - 🎓 M.A. – *Psychological Counseling and Guidance*, **Hacettepe University**  
@@ -34,13 +28,9 @@
   *(Cybersecurity, Python, Design Thinking, Cloud Computing, etc.)*  
 - Actively engaged in **TÜBİTAK**, **eTwinning**, and **Teknofest** projects with middle school students  
 
----
-
 🌍 Projects & Interests
 - **Digital wellbeing**, psychological resilience, creativity, and technology in education  
 - **Dyadic studies** involving parents and students  
 - Researching **eco-anxiety**, **environmental identity**, and **nature connectedness**  
-
----
 
 > *"I believe in lifelong learning and the power of combining empathy with technology."* 🧩
