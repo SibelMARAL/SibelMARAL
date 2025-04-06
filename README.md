@@ -33,4 +33,4 @@
 - **Dyadic studies** involving parents and students  
 - Researching **eco-anxiety**, **environmental identity**, and **nature connectedness**  
 
-> *"I believe in lifelong learning and the power of combining empathy with technology."* 🧩
+*"I believe in lifelong learning and the power of combining empathy with technology."* 🧩
