@@ -43,10 +43,4 @@
 
 ---
 
-📫 Let's Connect!
-- 💼 www.linkedin.com/in/sibel-maral-49b6b4151 
-- 📧 sibel.maral55@gmail.com 
-
----
-
 > *"I believe in lifelong learning and the power of combining empathy with technology."* 🧩
